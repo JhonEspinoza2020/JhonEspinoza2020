@@ -2,157 +2,141 @@
 
 # JHON SIDANI ESPINOZA MENDOZA
 
-### ( Mobile Developer • Software Engineer )
+### Full-Stack & Mobile Developer · 10.º ciclo · Beca 18 (PRONABEC)
 
-`$ whoami` → **Jhon Espinoza** | Mobile Developer 👨‍💻
+**Ingeniería de Sistemas e Informática** — Universidad Continental · Huancayo, Perú
+
+`$ whoami` → construyo productos reales: web, móvil y cloud, listos para producción.
 
 <br/>
 
-[![GitHub followers](https://img.shields.io/github/followers/JhonEspinoza2020?label=Followers&style=for-the-badge&logo=github&color=181717)](https://github.com/JhonEspinoza2020?tab=followers)
-[![Profile views](https://komarev.com/ghpvc/?username=JhonEspinoza2020&label=Profile%20Views&color=0e75b6&style=for-the-badge)](https://github.com/JhonEspinoza2020)
+[![Email](https://img.shields.io/badge/71272388%40continental.edu.pe-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:71272388@continental.edu.pe)
 [![GitHub](https://img.shields.io/badge/GitHub-JhonEspinoza2020-181717?style=for-the-badge&logo=github)](https://github.com/JhonEspinoza2020)
-[![Universidad Continental](https://img.shields.io/badge/Universidad-Continental-C8102E?style=for-the-badge&logo=google-scholar&logoColor=white)](https://ucontinental.edu.pe/)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-+51%20935%20832%20411-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/51935832411)
+[![Ubicación](https://img.shields.io/badge/Huancayo%2C%20Perú-0A66C2?style=for-the-badge&logo=googlemaps&logoColor=white)](https://github.com/JhonEspinoza2020)
 
 </div>
 
 ---
 
-## `$ cat about_me.json`
+## `$ cat about.md`
 
-```json
-{
-  "name": "Jhon Sidani Espinoza Mendoza",
-  "role": "Mobile Developer · Software Engineer",
-  "location": "Perú 🇵🇪",
-  "university": "Universidad Continental",
-  "focus": [
-    "Apps móviles con Flutter & Dart",
-    "Android nativo con Kotlin",
-    "Sistemas web y backends",
-    "Integración con Firebase"
-  ],
-  "currently_building": [
-    "Apps bancarias / fintech",
-    "Sistemas clínicos",
-    "Soluciones para negocios reales"
-  ],
-  "hobbies": ["código", "aprender nuevas stacks", "proyectos freelance"]
-}
-```
+Desarrollador **Full-Stack y Móvil** con experiencia entregando sistemas para negocios reales: karaoke por QR en vivo, gestión comercial multiplataforma, apps fintech Flutter y un sistema clínico con microservicios + IA.
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JhonEspinoza2020&theme=radical&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" alt="GitHub Streak" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api?username=JhonEspinoza2020&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&count_private=true" alt="GitHub Stats" height="165" />
-</p>
+Trabajo con **arquitectura hexagonal**, **APIs REST**, **cloud (AWS / Supabase / Firebase)** y prácticas de calidad (**ISO 27001**, SonarQube, Scrum). Busco un equipo donde pueda aportar impacto desde el día uno — y seguir creciendo en backend, móvil y datos.
+
+> Abierto a prácticas profesionales, junior full-stack / móvil y proyectos freelance serios.
 
 ---
 
-## `$ ls ~/tech-stack/`
+## `$ ls ~/highlights/`
 
-### Mobile
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-
-### Frontend & Web
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-
-### Backend & Datos
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-
-### Herramientas
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
+| | Impacto |
+|:--|:--|
+| **Productos en producción** | Dcuerdas Karaoke (QR + realtime), Distribuidora Condori (móvil + web), apps bancarias Flutter |
+| **Arquitectura** | Hexagonal, microservicios, serverless (Supabase Edge), monorepos |
+| **Stack fuerte** | Flutter · React/Angular · Spring Boot · TypeScript · Python · Supabase/Firebase · AWS |
+| **Extra** | Power BI · UML/Bizagi · mentor Beca 18 · español / inglés B1-B2 / quechua |
 
 ---
 
-## `$ cat ~/currently_learning.md`
+## `$ cat ~/experience.log`
 
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="48" alt="Flutter" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="48" alt="Firebase" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="48" alt="TypeScript" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="48" alt="Node.js" />
-</p>
+### Dcuerdas Karaoke — Desarrollador Full-Stack
+`Jun 2026 – Presente` · Tarma, Junín · [repo](https://github.com/JhonEspinoza2020/Dcuerdas-Karaoke)
 
-<p align="center">
-  <code>Flutter avanzado · Firebase · TypeScript · Node.js</code>
-</p>
+Sistema comercial de autoservicio por **códigos QR** con interacción en tiempo real, cola de canciones y pantallas multimedia.
+
+- Arquitectura **serverless**: React + Supabase (Postgres, Realtime, Edge Functions)
+- APIs REST externas + caché para cuotas y rendimiento
+- Flujo completo de negocio: mesas, pedidos, horario y filtros de contenido
+
+### Distribuidora Condori S.A.C. — Desarrollador de Software
+`Mar 2026 – Ago 2026` · Huancayo
+
+Sistema de gestión comercial **multiplataforma** (móvil + web) para inventarios y ventas.
+
+- Módulos de clientes, facturación y comprobantes digitales
+- Servicios en la nube: usuarios, almacenamiento y base de datos
+
+### Sistema de Gestión de Patrimonio Web — Desarrollador Web
+`Abr 2026` · Huancayo
+
+App corporativa para control, registro y trazabilidad de bienes patrimoniales, con importación masiva y procesamiento automatizado de datos.
 
 ---
 
 ## `$ ls ~/featured-projects/`
 
-| Proyecto | Stack | Descripción |
-|:---------|:------|:------------|
-| [**SYSTEM-CLINIC**](https://github.com/JhonEspinoza2020/SYSTEM-CLINIC) | JavaScript | Sistema de gestión clínica |
-| [**Banco_Ripley**](https://github.com/JhonEspinoza2020/Banco_Ripley) | Dart / Flutter | App móvil bancaria |
-| [**Microfinanza**](https://github.com/JhonEspinoza2020/Microfinanza) | Dart / Flutter | Microfinanzas conectada a Ripley |
-| [**Dcuerdas-Karaoke**](https://github.com/JhonEspinoza2020/Dcuerdas-Karaoke) | TypeScript | App de karaoke |
-| [**Huacalle-Predic**](https://github.com/JhonEspinoza2020/Huacalle-Predic) | Python | Predicción / análisis |
-| [**DCondori**](https://github.com/JhonEspinoza2020/DCondori) | Dart / Flutter | App para distribuidora |
+### [NovaSalud — SYSTEM-CLINIC](https://github.com/JhonEspinoza2020/SYSTEM-CLINIC)
+Sistema clínico interoperable (monorepo): **Spring Boot** (JWT + WebSocket) · **React** · microservicio de riesgo clínico con **FastAPI**. Arquitectura hexagonal, roles (ADMIN / DOCTOR / PACIENTE) y seguridad con BCrypt + OTP.
 
-<p align="center">
-  <a href="https://github.com/JhonEspinoza2020/SYSTEM-CLINIC">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JhonEspinoza2020&repo=SYSTEM-CLINIC&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF" alt="SYSTEM-CLINIC" />
-  </a>
-  <a href="https://github.com/JhonEspinoza2020/Banco_Ripley">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JhonEspinoza2020&repo=Banco_Ripley&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF" alt="Banco_Ripley" />
-  </a>
-</p>
+### [Dcuerdas Karaoke](https://github.com/JhonEspinoza2020/Dcuerdas-Karaoke)
+Karaoke por QR en resto-bar: frontend React + backend Supabase (Realtime, RLS, Edge Functions). Pensado para operación en vivo en sala.
+
+### [Microfinanza — Fuerza de Ventas](https://github.com/JhonEspinoza2020/Microfinanza)
+App Flutter (Android + Web) para asesores: cartera preaprobada, ficha de campo y envío a comité. Comparte backend **Supabase** con la app cliente [Banco Ripley](https://github.com/JhonEspinoza2020/Banco_Ripley).
+
+### [PredictEdu / Huacalle-Predic](https://github.com/JhonEspinoza2020/Huacalle-Predic)
+Predicción de riesgo de deserción escolar (I.E. Huacalle): Tauri + React + Flask/scikit-learn, con documentación ISO (9001 / 25010 / 27001).
+
+### [Minimarket Wisa](https://github.com/JhonEspinoza2020/Minimarket-Wisa)
+App Flutter feature-first: catálogo, carrito, checkout, pedidos, loyalty y pagos con Stripe.
 
 ---
 
-## `$ neofetch --stats`
+## `$ ls ~/tech-stack/`
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JhonEspinoza2020&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&include_all_commits=true&count_private=true" height="180" alt="Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JhonEspinoza2020&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&langs_count=8" height="180" alt="Top Languages" />
-</p>
+**Móvil**  
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JhonEspinoza2020&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&hide_border=true" alt="Contribution Graph" />
-</p>
+**Web**  
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+**Backend & Cloud**  
+![Java](https://img.shields.io/badge/Java%20Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=black)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+**Datos & Calidad**  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=flat-square&logo=sonarqube&logoColor=white)
+![Scrum](https://img.shields.io/badge/Scrum-009FDA?style=flat-square&logo=scrumalliance&logoColor=white)
 
 ---
 
 ## `$ cat ~/education.log`
 
-| Periodo | Programa | Institución |
-|:-------:|:---------|:------------|
-| Actual | Ingeniería / Sistemas & Desarrollo de Software | Universidad Continental |
+| | |
+|:--|:--|
+| **Universidad Continental** | Ingeniería de Sistemas e Informática · 10.º ciclo · Egreso proyectado Dic. 2026 |
+| **Beca 18 — PRONABEC** | Becario por excelencia académica · Mentor de inducción universitaria (2025) |
+| **Power BI** | Certificación en Business Intelligence y Analytics |
+| **Idiomas** | Español (nativo) · Inglés B1/B2 · Quechua (intermedio) |
 
 ---
 
-## `$ echo "Let's build something"`
+## `$ echo "hablemos"`
 
 <div align="center">
 
-💡 Abierto a colaborar en apps móviles, sistemas web y proyectos freelance.
+Si buscas a alguien que **entrega**, documenta y piensa en arquitectura — no solo “hace tareas” — escribime.
 
-📫 Escribime por GitHub → [**@JhonEspinoza2020**](https://github.com/JhonEspinoza2020)
-
-<br/>
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
+**[71272388@continental.edu.pe](mailto:71272388@continental.edu.pe)** · **[+51 935 832 411](https://wa.me/51935832411)** · **[GitHub](https://github.com/JhonEspinoza2020)**
 
 <br/>
 
-**« El mejor código es el que resuelve un problema real. »**
+*`disponible para prácticas · junior · freelance`*
 
 </div>
