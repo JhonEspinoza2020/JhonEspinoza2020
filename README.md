@@ -17,7 +17,7 @@
 [![Repos](https://komarev.com/ghpvc/?username=JhonEspinoza2020&label=Profile%20Views&color=161b22&style=for-the-badge)](https://github.com/JhonEspinoza2020)
 [![Repos](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/JhonEspinoza2020&query=$.public_repos&logo=github&label=Repos&color=161b22&labelColor=0d1117&style=for-the-badge&logoColor=7ED4FF)](https://github.com/JhonEspinoza2020?tab=repositories)
 [![WhatsApp](https://img.shields.io/badge/-WhatsApp-161b22?style=for-the-badge&logo=whatsapp&logoColor=25D366&labelColor=0d1117)](https://wa.me/51935832411)
-[![Email](https://img.shields.io/badge/-Contact-161b22?style=for-the-badge&logo=gmail&logoColor=EA4335&labelColor=0d1117)](mailto:71272388@continental.edu.pe)
+[![Email](https://img.shields.io/badge/-Contact-161b22?style=for-the-badge&logo=gmail&logoColor=EA4335&labelColor=0d1117)](mailto:espinozajhon739@gmail.com)
 
 </div>
 
@@ -237,7 +237,7 @@
 <a href="https://github.com/JhonEspinoza2020">
   <img src="https://img.shields.io/badge/github-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" />
 </a>
-<a href="mailto:71272388@continental.edu.pe">
+<a href="mailto:espinozajhon739@gmail.com">
   <img src="https://img.shields.io/badge/gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
@@ -247,7 +247,7 @@
 ╔══════════════════════════════════════════════════════════════════╗
 ║                                                                  ║
 ║   💼  Full-Stack & Mobile · productos reales en producción       ║
-║   📬  71272388@continental.edu.pe                                ║
+║   📬  espinozajhon739@gmail.com                                ║
 ║   📱  +51 935 832 411                                            ║
 ║   ⚡  "Ship real systems."                                       ║
 ║                                                                  ║
