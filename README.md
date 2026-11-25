@@ -136,19 +136,3 @@ Trazabilidad de bienes con importación masiva de datos.
 | **Universidad Continental** | Ingeniería de Sistemas e Informática · 10.º ciclo · Huancayo · egreso proyectado Dic. 2026 |
 | **Power BI** | Certificación en Business Intelligence y Analytics |
 | **Idiomas** | Español (nativo) · Inglés B1/B2 · Quechua (intermedio) |
-
----
-
-## `$ echo "hablemos"`
-
-<div align="center">
-
-Si buscas a alguien que **entrega sistemas de punta a punta** — no solo pantallas — escribime.
-
-**[71272388@continental.edu.pe](mailto:71272388@continental.edu.pe)** · **[+51 935 832 411](https://wa.me/51935832411)** · **[GitHub](https://github.com/JhonEspinoza2020)**
-
-<br/>
-
-*`disponible para prácticas · junior · freelance`*
-
-</div>
