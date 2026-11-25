@@ -37,11 +37,6 @@
   "role": "Full-Stack & Mobile Developer",
   "location": "Huancayo, Perú 🇵🇪",
   "education": "Ing. de Sistemas e Informática @ Universidad Continental",
-  "building": [
-    "CRM inmobiliario (Golden Wasi)",
-    "Logística última milla (WankaEco)",
-    "Fintech Flutter + NestJS/Spring"
-  ],
   "current_focus": [
     "React + NestJS + Prisma",
     "Flutter / Firebase / Supabase",
@@ -174,47 +169,9 @@
 
 </div>
 
-<!-- ═══════════════════════ PROJECTS ═══════════════════════ -->
-
-<br/>
-
-<div align="center">
-
-## 🚀 `$ ls ~/featured-projects/`
-
-<br/>
-
-**Golden Wasi** — CRM inmobiliario (NestJS · React · Prisma · Leaflet · Vercel/Railway)  
-ciclo completo de lotes · plano interactivo · roles · pagos/cuotas · [repo](https://github.com/lhenryporta27/golden-wasi)
-
-<br/>
-
-<a href="https://github.com/Nario1/WankaEcoLogistica">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nario1&repo=WankaEcoLogistica&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=7ED4FF&icon_color=7ED4FF&text_color=8b949e" />
-</a>
-<a href="https://github.com/JhonEspinoza2020/Dcuerdas-Karaoke">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=JhonEspinoza2020&repo=Dcuerdas-Karaoke&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=7ED4FF&icon_color=7ED4FF&text_color=8b949e" />
-</a>
-
-<br/>
-
-<a href="https://github.com/JhonEspinoza2020/SYSTEM-CLINIC">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=JhonEspinoza2020&repo=SYSTEM-CLINIC&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=7ED4FF&icon_color=7ED4FF&text_color=8b949e" />
-</a>
-<a href="https://github.com/JhonEspinoza2020/Microfinanza">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=JhonEspinoza2020&repo=Microfinanza&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=7ED4FF&icon_color=7ED4FF&text_color=8b949e" />
-</a>
-
-<br/>
-
-<a href="https://github.com/JhonEspinoza2020?tab=repositories">
-  <img src="https://img.shields.io/badge/▶%20Ver%20Todos%20los%20Repositorios-0d1117?style=for-the-badge&logo=github&logoColor=7ED4FF" />
-</a>
-
-</div>
+<!-- Featured projects: pendiente — el usuario indicará qué repos mostrar -->
 
 <!-- ═══════════════════════ STATS ═══════════════════════ -->
-
 <br/>
 
 <div align="center">
