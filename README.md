@@ -1,138 +1,312 @@
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--              JHON SIDANI ESPINOZA MENDOZA - PROFILE            -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
 <div align="center">
 
-# JHON SIDANI ESPINOZA MENDOZA
+<!-- Animated Header -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,50:161b22,100:7ED4FF&height=200&section=header&text=JHON%20ESPINOZA&fontSize=48&fontColor=7ED4FF&animation=twinkling&fontAlignY=35&desc=〔%20Full-Stack%20%26%20Mobile%20Developer%20〕&descSize=16&descColor=8b949e&descAlignY=55"/>
 
-### Full-Stack & Mobile Developer
-
-**Ingeniería de Sistemas e Informática** — Universidad Continental · Huancayo, Perú
-
-`$ whoami` → construyo productos reales: CRM inmobiliario, logística, fintech, clínica y cloud.
+<!-- Terminal-style intro -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=7ED4FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=%24+whoami;Jhon+Espinoza+%7C+Full-Stack+%26+Mobile+Developer+%F0%9F%92%BB" alt="Terminal Typing" />
 
 <br/>
 
-[![Email](https://img.shields.io/badge/71272388%40continental.edu.pe-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:71272388@continental.edu.pe)
-[![GitHub](https://img.shields.io/badge/GitHub-JhonEspinoza2020-181717?style=for-the-badge&logo=github)](https://github.com/JhonEspinoza2020)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-+51%20935%20832%20411-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/51935832411)
-[![Ubicación](https://img.shields.io/badge/Huancayo%2C%20Perú-0A66C2?style=for-the-badge&logo=googlemaps&logoColor=white)](https://github.com/JhonEspinoza2020)
+<!-- Quick badges -->
+[![GitHub](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/JhonEspinoza2020&query=$.followers&logo=github&label=Followers&color=161b22&labelColor=0d1117&style=for-the-badge&logoColor=7ED4FF)](https://github.com/JhonEspinoza2020)
+[![Repos](https://komarev.com/ghpvc/?username=JhonEspinoza2020&label=Profile%20Views&color=161b22&style=for-the-badge)](https://github.com/JhonEspinoza2020)
+[![Repos](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/JhonEspinoza2020&query=$.public_repos&logo=github&label=Repos&color=161b22&labelColor=0d1117&style=for-the-badge&logoColor=7ED4FF)](https://github.com/JhonEspinoza2020?tab=repositories)
+[![WhatsApp](https://img.shields.io/badge/-WhatsApp-161b22?style=for-the-badge&logo=whatsapp&logoColor=25D366&labelColor=0d1117)](https://wa.me/51935832411)
+[![Email](https://img.shields.io/badge/-Contact-161b22?style=for-the-badge&logo=gmail&logoColor=EA4335&labelColor=0d1117)](mailto:71272388@continental.edu.pe)
 
 </div>
 
----
+<!-- ═══════════════════════ ABOUT ═══════════════════════ -->
 
-## `$ cat about.md`
+<br/>
 
-Desarrollador **Full-Stack y Móvil** con sistemas en operación real: **CRM inmobiliario** (ciclo completo de lotes), logística de última milla, fintech Flutter, karaoke por QR y software clínico con microservicios.
+<table align="center" border="0" cellpadding="0" cellspacing="0">
+<tr>
+<td width="55%" valign="top">
 
-Diseño API + panel + datos + despliegue: autenticación con roles, mapas, pagos, importaciones, realtime y cloud. Stack fuerte en **React / TypeScript / NestJS / Flutter / Spring Boot / Python**, **PostgreSQL**, **Prisma**, **Supabase/Firebase** y deploy en **Vercel / Railway / Neon**.
+## ⚡ `$ cat about_me.json`
 
-> Abierto a prácticas profesionales, junior full-stack / móvil y proyectos freelance serios.
+```json
+{
+  "name": "Jhon Sidani Espinoza Mendoza",
+  "role": "Full-Stack & Mobile Developer",
+  "location": "Huancayo, Perú 🇵🇪",
+  "education": "Ing. de Sistemas e Informática @ Universidad Continental",
+  "building": [
+    "CRM inmobiliario (Golden Wasi)",
+    "Logística última milla (WankaEco)",
+    "Fintech Flutter + NestJS/Spring"
+  ],
+  "current_focus": [
+    "React + NestJS + Prisma",
+    "Flutter / Firebase / Supabase",
+    "Mapas, pagos y APIs reales"
+  ],
+  "interests": [
+    "Productos en producción",
+    "Arquitectura limpia",
+    "Cloud & deploy"
+  ],
+  "motto": "Ship real systems."
+}
+```
 
----
+</td>
+<td width="45%" align="center" valign="top">
 
-## `$ ls ~/featured-projects/`
+<br/>
 
-### [Golden Wasi](https://github.com/lhenryporta27/golden-wasi) · CRM inmobiliario
-CRM interno para **Golden Wasi S.A.C.** (Perú): ciclo comercial de lotes  
-cliente → seguimiento → visita → separación → pagos → venta → cuotas → postventa → referidos.  
-Incluye landing / plano público de proyectos. Producto real de operación (tesis / expo).
+<img src="https://github-readme-stats.vercel.app/api?username=JhonEspinoza2020&show_icons=true&hide_border=true&bg_color=0d1117&title_color=7ED4FF&text_color=8b949e&icon_color=7ED4FF&ring_color=7ED4FF&include_all_commits=true&count_private=true" width="100%" alt="GitHub Stats"/>
 
-**Rol:** full-stack — API, panel web, modelo de datos, despliegue e integraciones.
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=JhonEspinoza2020&hide_border=true&background=0d1117&stroke=161b22&ring=7ED4FF&fire=7ED4FF&currStreakLabel=7ED4FF&sideLabels=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e" width="100%" alt="Streak"/>
 
-- **React 19 + Vite + TypeScript + TanStack Query + Tailwind** · **NestJS + Prisma + PostgreSQL (Neon)**
-- JWT + roles (Gerente · Administrador · Asesor) · moneda `S/` · zona `America/Lima`
-- Plano interactivo de lotes (**Leaflet**): polígonos, capas calles/satélite, división masiva
-- Importación Excel por chunks · consulta DNI (ApisPerú) solo desde backend
-- Imágenes (Cloudinary + Sharp) · recuperación de clave (Resend) · mapas (Google Places / Mapbox / OSM)
-- Deploy: frontend **Vercel** · API **Railway** · DB **Neon**
+</td>
+</tr>
+</table>
 
-### [WankaEcoLogística](https://github.com/Nario1/WankaEcoLogistica) · colaborador
-Logística de última milla en Huancayo — pedidos, flota, conductores y rutas optimizadas.
+<!-- ═══════════════════════ TECH STACK ═══════════════════════ -->
 
-- **React + Vite + MUI** · **Node/Express** · **PostgreSQL/PostGIS** · TomTom / OSRM · PWA
-- Optimización de hasta 50 pedidos · JWT + RBAC · indicadores CO₂ · CI/CD
-- Demo: [wankaecologistica.vercel.app](https://wankaecologistica.vercel.app)
+<br/>
 
-### [Dcuerdas Karaoke](https://github.com/JhonEspinoza2020/Dcuerdas-Karaoke)
-Karaoke comercial por **QR** con cola en tiempo real y pantallas multimedia.
+<div align="center">
 
-- **React + Supabase** (Postgres, Realtime, Edge Functions, RLS)
+## 🛠️ `$ ls ~/tech-stack/`
 
-### [NovaSalud — SYSTEM-CLINIC](https://github.com/JhonEspinoza2020/SYSTEM-CLINIC)
-Sistema clínico interoperable: **Spring Boot** (JWT, WebSocket, hexagonal) · **React** · riesgo clínico con **FastAPI**.
+<br/>
 
-### [Microfinanza + Banco Ripley](https://github.com/JhonEspinoza2020/Microfinanza)
-Suite Flutter fintech (asesores Android/Web + app cliente) sobre **Supabase / PostgreSQL**.  
-También: [Banco Ripley](https://github.com/JhonEspinoza2020/Banco_Ripley)
+<details open>
+<summary><b>⚙️ Backend & Core</b></summary>
+<br/>
+<img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white"/>
+<img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
+</details>
 
-### CiciEstru — calculadora estructural
-Análisis 2D por matriz de rigidez: **FastAPI + React**, solver M/V/N, auth JWT, Docker.
+<details open>
+<summary><b>🎨 Frontend & Mobile</b></summary>
+<br/>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
+<img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
+<img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
+<img src="https://img.shields.io/badge/Leaflet-199900?style=for-the-badge&logo=leaflet&logoColor=white"/>
+</details>
 
-### Distribuidora Condori — gestión comercial
-Móvil + web: inventarios, clientes, facturación y comprobantes digitales en la nube.
+<details open>
+<summary><b>🗄️ Bases de Datos</b></summary>
+<br/>
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+<img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=black"/>
+<img src="https://img.shields.io/badge/Neon-00E699?style=for-the-badge&logo=neon&logoColor=black"/>
+</details>
 
-### [PredictEdu / Huacalle](https://github.com/JhonEspinoza2020/Huacalle-Predic)
-Predicción de deserción escolar: Tauri + React + Flask / scikit-learn.
+<details open>
+<summary><b>☁️ DevOps & Cloud</b></summary>
+<br/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-web-services&logoColor=FF9900"/>
+<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white"/>
+</details>
 
----
+<details>
+<summary><b>🔧 Herramientas</b></summary>
+<br/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+<img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white"/>
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+<img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black"/>
+<img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white"/>
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+</details>
 
-## `$ cat ~/experience.log`
+</div>
 
-**Golden Wasi S.A.C.** — Full-Stack · CRM inmobiliario  
-API NestJS, panel React, Prisma/PostgreSQL, mapas de lotes, pagos/cuotas, DNI e importación Excel. Deploy Vercel + Railway + Neon.
+<!-- ═══════════════════════ LEARNING ═══════════════════════ -->
 
-**Dcuerdas Karaoke** — Full-Stack · `Jun 2026 – Presente` · Tarma  
-Autoservicio por QR, serverless, APIs + caché y reproducción multimedia en sala.
+<br/>
 
-**Distribuidora Condori S.A.C.** — Software · `Mar 2026 – Ago 2026` · Huancayo  
-Gestión comercial móvil/web, cloud y facturación digital.
+<div align="center">
 
-**Patrimonio Web** — Web · `Abr 2026` · Huancayo  
-Trazabilidad de bienes con importación masiva de datos.
+## 🧪 `$ cat ~/currently_learning.md`
 
----
+<br/>
 
-## `$ ls ~/tech-stack/`
+<table>
+<tr>
+<td align="center" width="25%">
+<img src="https://skillicons.dev/icons?i=nestjs" width="50"/>
+<br/><b>NestJS</b>
+<br/><sub>APIs empresariales</sub>
+</td>
+<td align="center" width="25%">
+<img src="https://skillicons.dev/icons?i=aws" width="50"/>
+<br/><b>AWS</b>
+<br/><sub>Cloud</sub>
+</td>
+<td align="center" width="25%">
+<img src="https://skillicons.dev/icons?i=docker" width="50"/>
+<br/><b>Docker</b>
+<br/><sub>Contenedores</sub>
+</td>
+<td align="center" width="25%">
+<img src="https://skillicons.dev/icons?i=prisma" width="50"/>
+<br/><b>Prisma</b>
+<br/><sub>ORM + Neon</sub>
+</td>
+</tr>
+</table>
 
-**Web & UI**  
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![Leaflet](https://img.shields.io/badge/Leaflet-199900?style=flat-square&logo=leaflet&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+</div>
 
-**Móvil**  
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+<!-- ═══════════════════════ PROJECTS ═══════════════════════ -->
 
-**Backend & Cloud**  
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=black)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=flat-square&logo=railway&logoColor=white)
-![Neon](https://img.shields.io/badge/Neon-00E699?style=flat-square&logo=neon&logoColor=black)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+<br/>
 
-**Datos & Calidad**  
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=flat-square&logo=sonarqube&logoColor=white)
-![Scrum](https://img.shields.io/badge/Scrum-009FDA?style=flat-square&logo=scrumalliance&logoColor=white)
+<div align="center">
 
----
+## 🚀 `$ ls ~/featured-projects/`
 
-## `$ cat ~/education.log`
+<br/>
 
-| | |
-|:--|:--|
-| **Universidad Continental** | Ingeniería de Sistemas e Informática · 10.º ciclo · Huancayo · egreso proyectado Dic. 2026 |
-| **Power BI** | Certificación en Business Intelligence y Analytics |
-| **Idiomas** | Español (nativo) · Inglés B1/B2 · Quechua (intermedio) |
+**Golden Wasi** — CRM inmobiliario (NestJS · React · Prisma · Leaflet · Vercel/Railway)  
+ciclo completo de lotes · plano interactivo · roles · pagos/cuotas · [repo](https://github.com/lhenryporta27/golden-wasi)
+
+<br/>
+
+<a href="https://github.com/Nario1/WankaEcoLogistica">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nario1&repo=WankaEcoLogistica&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=7ED4FF&icon_color=7ED4FF&text_color=8b949e" />
+</a>
+<a href="https://github.com/JhonEspinoza2020/Dcuerdas-Karaoke">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=JhonEspinoza2020&repo=Dcuerdas-Karaoke&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=7ED4FF&icon_color=7ED4FF&text_color=8b949e" />
+</a>
+
+<br/>
+
+<a href="https://github.com/JhonEspinoza2020/SYSTEM-CLINIC">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=JhonEspinoza2020&repo=SYSTEM-CLINIC&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=7ED4FF&icon_color=7ED4FF&text_color=8b949e" />
+</a>
+<a href="https://github.com/JhonEspinoza2020/Microfinanza">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=JhonEspinoza2020&repo=Microfinanza&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=7ED4FF&icon_color=7ED4FF&text_color=8b949e" />
+</a>
+
+<br/>
+
+<a href="https://github.com/JhonEspinoza2020?tab=repositories">
+  <img src="https://img.shields.io/badge/▶%20Ver%20Todos%20los%20Repositorios-0d1117?style=for-the-badge&logo=github&logoColor=7ED4FF" />
+</a>
+
+</div>
+
+<!-- ═══════════════════════ STATS ═══════════════════════ -->
+
+<br/>
+
+<div align="center">
+
+## 📊 `$ neofetch --stats`
+
+<br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JhonEspinoza2020&theme=github_dark" width="100%"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JhonEspinoza2020&theme=github_dark" width="49%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=JhonEspinoza2020&theme=github_dark" width="49%"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=JhonEspinoza2020&theme=github_dark" width="49%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=JhonEspinoza2020&theme=github_dark&utcOffset=-5" width="49%"/>
+
+</div>
+
+<!-- ═══════════════════════ EDUCATION ═══════════════════════ -->
+
+<br/>
+
+<div align="center">
+
+## 🏅 `$ cat ~/education.log`
+
+<br/>
+
+| 📅 Periodo | 🎓 Programa | 🏫 Institución |
+|:---:|:---:|:---:|
+| `2022 → Presente` | **Ingeniería de Sistemas e Informática** (10.º ciclo) | Universidad Continental |
+| `Certificación` | **Power BI — Business Intelligence & Analytics** | — |
+
+</div>
+
+<!-- ═══════════════════════ ACTIVITY GRAPH ═══════════════════════ -->
+
+<br/>
+
+<div align="center">
+
+## 📈 `$ git log --graph`
+
+<br/>
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=JhonEspinoza2020&bg_color=0d1117&color=7ED4FF&line=7ED4FF&point=ffffff&area_color=161b22&area=true&hide_border=true&custom_title=Contribuciones%20en%20el%20último%20año)](https://github.com/JhonEspinoza2020)
+
+</div>
+
+<!-- ═══════════════════════ CONNECT ═══════════════════════ -->
+
+<br/>
+
+<div align="center">
+
+## 🌐 `$ curl --connect`
+
+<br/>
+
+<a href="https://wa.me/51935832411">
+  <img src="https://img.shields.io/badge/whatsapp-%2325D366.svg?style=for-the-badge&logo=whatsapp&logoColor=white" />
+</a>
+<a href="https://github.com/JhonEspinoza2020">
+  <img src="https://img.shields.io/badge/github-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="mailto:71272388@continental.edu.pe">
+  <img src="https://img.shields.io/badge/gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<br/><br/>
+
+```
+╔══════════════════════════════════════════════════════════════════╗
+║                                                                  ║
+║   💼  Full-Stack & Mobile · productos reales en producción       ║
+║   📬  71272388@continental.edu.pe                                ║
+║   📱  +51 935 832 411                                            ║
+║   ⚡  "Ship real systems."                                       ║
+║                                                                  ║
+╚══════════════════════════════════════════════════════════════════╝
+```
+
+</div>
+
+<!-- ═══════════════════════ FOOTER ═══════════════════════ -->
+
+<br/>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=1&section=header"/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:7ED4FF&height=120&section=footer&text=while(alive)%20%7B%20build();%20ship();%20learn();%20%7D&fontSize=14&fontColor=8b949e&fontAlignY=75&animation=twinkling"/>
+
+</div>
